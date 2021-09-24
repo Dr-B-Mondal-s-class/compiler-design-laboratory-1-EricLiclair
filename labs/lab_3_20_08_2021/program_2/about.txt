@@ -1,0 +1,6 @@
+WAP to count no. characters in a string.
+The lexfile.l contains the lex code for this program
+The lex.yy.c file contains the c code for this program
+The lex.yy is the C executable for this program
+The output.png is the output for this program
+

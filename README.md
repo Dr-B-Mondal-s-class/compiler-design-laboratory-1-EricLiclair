@@ -1,1 +1,32 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5517598&assignment_repo_type=AssignmentRepo)
+![iiit ranchi logo](iiitranchilogo.png)
+
+# Compiler Design Lab Record - CS 324
+
+## Introduction
+
+| **Name**         | Shubham Kushwaha     |
+| :--------------- | :------------------- |
+| **Roll Number**  | 2019UGCS008R         |
+| **Subject Code** | CS 324               |
+| **Faculty**      | Prof. Bhaskar Mondal |
+
+<!--
+### Lab work
+
+| Sr. No. | Description                                                                         |    Date    |                                  Source Code                                  |                         Output                          |
+| :-----: | :---------------------------------------------------------------------------------- | :--------: | :---------------------------------------------------------------------------: | :-----------------------------------------------------: |
+|   1.    | WAP to recognize strings with numbers or alphabets                                  | 06/08/2021 |      [Link](./src/recognizeDigits_Alphabets/recognizeDigits_Alphabets.l)      |   [Link](./src/recognizeDigits_Alphabets/output.png)    |
+|   2.    | WAP to recognize digit and non-digit                                                | 13/08/2021 |                 [Link](./src/Digit_NonDigit/Digit_NonDigit.l)                 |         [Link](./src/Digit_NonDigit/output.png)         |
+|   3.    | WAP to recognize whether string contain only english letters or not.                | 13/08/2021 |                    [Link](./src/onlyLetters/onlyLetters.l)                    |          [Link](./src/onlyLetters/output.png)           |
+|   4.    | WAP to recognize whether string contain only english letters, only digits, or both. | 13/08/2021 |                                   [Link]()                                    |                        [Link]()                         |
+|   5.    | WAP to recognize whether string contain only uppercase,lowercase or both letters.   | 13/08/2021 |             [Link](./src/upperCaseLowerCase/upperCaseLowerCase.l)             |       [Link](./src/upperCaseLowerCase/output.png)       |
+|   6.    | WAP to recognize vowels or consonants in string                                     | 20/08/2021 |                [Link](./src/vowel_consonant/vowel_consonant.l)                |        [Link](./src/vowel_consonant/output.png)         |
+|   7.    | WAP to count no. characters in a string.                                            | 20/08/2021 |               [Link](./src/count_characters/count_characters.l)               |        [Link](./src/count_characters/output.png)        |
+|   8.    | WAP to count no. of vowels, consonants, in a string.                                | 20/08/2021 |         [Link](./src/count_vowels_consonant/count_vowels_consonant.l)         |     [Link](./src/count_vowels_consonant/output.png)     |
+|   9.    | WAP to count no. of characters, whitespace,tabs and digits in a string.             | 20/08/2021 | [Link](./src/count_char_whitespace_tabs_etc/count_char_whitespace_tabs_etc.l) | [Link](./src/count_char_whitespace_tabs_etc/output.png) |
+|   10.   | WAP to recognize float and int data type.                                           | 27/08/2021 |            [Link](./src/recognize_float_int/recognize_float_int.l)            |      [Link](./src/recognize_float_int/output.png)       |
+|   11.   | WAP to verify a valid identifier.                                                   | 27/08/2021 |              [Link](./src/verify_identifier/verify_identifier.l)              |       [Link](./src/verify_identifier/output.png)        |
+|   12.   | WAP to verify a valid keyword.                                                      | 27/08/2021 |                 [Link](./src/verify_keyword/verify_keyword.l)                 |         [Link](./src/verify_keyword/output.png)         |
+|   13.   | WAP to recognize basic operators (`PLUS(+), MINUS(-), GE(>=), LE(<=)`).             | 27/08/2021 |      [Link](./src/recognize_basic_operators/recognize_basic_operators.l)      |   [Link](./src/recognize_basic_operators/output.png)    |
+|   14.   | WAP to determine input operators whether arithmetic or logical.                     | 27/08/2021 |   [Link](./src/arithmetic_logical_operators/arithmetic_logical_operators.l)   |  [Link](./src/arithmetic_logical_operators/output.png)  |
+|   15.   | WAP to count number of lexemes,keyword, identifiers, operators etc.                 | 03/09/2021 |                  [Link](./src/count_lexemes/count_lexemes.l)                  |         [Link](./src/count_lexemes/output.png)          | -->
