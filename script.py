@@ -1,4 +1,3 @@
-import re
 import os
 
 
@@ -73,7 +72,6 @@ def create_directories():
         for idx, lab in enumerate(labs):
             program_path = f"{lab_dir}/program_{idx+1}"
 
-            # print(lab_dir, program_path)
             if not os.path.isdir(program_path):
                 os.system(f"mkdir {program_path}")
             os.system(

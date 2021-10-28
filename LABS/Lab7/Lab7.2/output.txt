@@ -1,0 +1,6 @@
+No. of lexemes=9
+No. of keywords=1
+No. of identifiers=1
+No. of integers=3
+No. of fractions=0
+No. of operators=4
