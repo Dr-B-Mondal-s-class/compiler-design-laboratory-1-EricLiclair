@@ -4,11 +4,11 @@
 
 ## Introduction
 
-| **Name**         | Shubham Kushwaha                                  |
-| :--------------- | :------------------------------------------------ |
-| **Roll Number**  | 2019UGCS008R                                      |
-| **Subject Code** | CS 324                                            |
-| **Faculty**      | Prof. Bhaskar Mondal https://github.com/bhaskarfx |
+| **Name**         | Shubham Kushwaha                                     |
+| :--------------- | :--------------------------------------------------- |
+| **Roll Number**  | 2019UGCS008R                                         |
+| **Subject Code** | CS 324                                               |
+| **Faculty**      | [Prof. Bhaskar Mondal](https://github.com/bhaskarfx) |
 
 Lab 1 :
 
